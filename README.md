@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/donwload.gif" alt="Banner animado do Polar" width="100%">
+<img src="./assets/download.gif" alt="Banner animado do Polar" width="100%">
 
 # Olá! Eu sou o Polar :snowflake:
 
