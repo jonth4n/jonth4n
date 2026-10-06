@@ -123,6 +123,6 @@ Também estou começando minha jornada no **Hack The Box**, documentando o que a
     
 ### `learn more for your future.`
 
-:blue_heart:
+:white_heart:
 
 </div>
