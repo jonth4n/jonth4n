@@ -104,7 +104,9 @@ Também estou começando minha jornada no **Hack The Box**, documentando o que a
 ## :bar_chart: GitHub
 
 <div align="center">
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonth4n\&show_icons=true\&hide_border=true\&theme=github_dark)
+
 </div>
 
 ---
@@ -118,6 +120,9 @@ Também estou começando minha jornada no **Hack The Box**, documentando o que a
 ---
 
 <div align="center">
+    
 ### `learn more for your future.`
+
 :blue_heart:
+
 </div>
