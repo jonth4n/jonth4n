@@ -2,21 +2,21 @@
 
 <img src="./assets/download.gif" alt="Banner animado do Polar" width="100%">
 
-# Olá! Eu sou o Polar :snowflake:
+# Hello! I'm Polar :snowflake:
 
-**Web Developer em formação • Linux • Cybersecurity • UI**
+**Aspiring Web Developer • Linux • Cybersecurity • UI**
 
-Construo projetos para aprender, experimentar e transformar ideias em coisas reais.
+I build projects to learn, experiment, and turn ideas into reality.
 
-[:globe_with_meridians: Portfolio](https://polarhollow.pages.dev) • [:computer: Projetos](https://github.com/jonth4n) • [:art: Behance](https://www.behance.net/fereswallacy/projects) • [:camera_with_flash: Instagram](https://www.instagram.com/polar.wf/)
+[:globe_with_meridians: Portfolio](https://polarhollow.pages.dev) • [:computer: Projetos](https://github.com/jonth4n) • [:art: Behance](https://www.behance.net/fereswallacy/projects) • [:camera_flash: Instagram](https://www.instagram.com/polar.wf/)
 
 </div>
 
 ---
 
 ## `~/about`
-Sou desenvolvedor em formação, atualmente focado em **desenvolvimento web**, enquanto exploro cada vez mais **Linux e cybersecurity**.
-Gosto de entender como as coisas funcionam, construir projetos e aprender colocando a mão no código.
+I am a developer in training, currently focused on **web development** while increasingly exploring **Linux and cybersecurity**.
+I enjoy understanding how things work, building projects, and learning by getting hands-on with the code.
 > **Build → Break → Understand → Fix → Repeat.**
 
 ---
@@ -44,24 +44,24 @@ Gosto de entender como as coisas funcionam, construir projetos e aprender coloca
 ```
 ---
 
-## :rocket: Projetos
+## :rocket: Projetos(projects)
 
 ### :test_tube: Security Lab
-Laboratório pessoal para estudar **segurança de aplicações web** em ambientes controlados, documentando vulnerabilidades, testes e correções.
+Personal laboratory for studying **web application security** in controlled environments, documenting vulnerabilities, tests, and fixes.
 
 → `Em desenvolvimento`
 
 ### :robot: PolaLab Bot
-Bot para gerenciamento de pedidos, atendimento e serviços dentro do Discord.
+Bot for order management, customer support, and services within Discord.
 
 → `JavaScript • Node.js • Discord.js • SQLite`
 
 ### :globe_with_meridians: Portfolio
-Meu portfólio pessoal e espaço para experimentar com desenvolvimento web, UI e novas tecnologias.
+My personal portfolio and a space to experiment with web development, UI, and new technologies.
 
 → `HTML • CSS • JavaScript`
 
-> Mais projetos serão adicionados conforme eu continuar construindo.
+> More projects will be added as I continue building.
 ---
 ## :tools: Tecnologias
 
@@ -82,7 +82,7 @@ Meu portfólio pessoal e espaço para experimentar com desenvolvimento web, UI e
 
 ---
 
-## :books: Aprendendo atualmente
+## :books: Currently learning
 ```text
 JavaScript
 Linux
@@ -95,9 +95,9 @@ UI/UX
 
 ## :closed_lock_with_key: Cybersecurity
 
-Atualmente explorando cybersecurity através de **laboratórios práticos e ambientes autorizados**, com foco em entender como aplicações funcionam, onde podem falhar e como podem ser protegidas.
+I am currently exploring cybersecurity through **hands-on labs and authorized environments**, focusing on understanding how applications work, where they can fail, and how they can be secured.
 
-Também estou começando minha jornada no **Hack The Box**, documentando o que aprendo e desenvolvendo uma base mais sólida em segurança.
+I am also beginning my journey on **Hack The Box**, documenting what I learn and building a more solid foundation in security.
 
 ---
 
