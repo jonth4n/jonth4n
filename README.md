@@ -114,7 +114,7 @@ I am also beginning my journey on **Hack The Box**, documenting what I learn and
 ## :mailbox: Onde me encontrar
 
 :art: **Behance:** [Polar](https://www.behance.net/fereswallacy/projects)
-:camera_with_flash: **Instagram:** [polar.wf](https://www.instagram.com/polar.wf/)
+:camera_flash: **Instagram:** [polar.wf](https://www.instagram.com/polar.wf/)
 :computer: **GitHub:** [jonth4n](https://github.com/jonth4n)
 
 ---
